@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5edc831-cff7-471c-967a-01da4f60377e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/index.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/swiper-3.4.2.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/video-js.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bannerbkg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bottom0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bottom1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bottom2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/donate.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/donateName.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/donateNumber.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/head.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/left.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/load.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/loadBkg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/loading.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/m.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/m.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/nameBox.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pro1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pro2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pro3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pro4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pro5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pro6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/proTitle.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/share.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/social1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/social2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/social3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/socialBox.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/society.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/title.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/videoBox.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/water.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/scrollReveal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/swiper-3.4.2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/video.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/zh-CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/video/mp.mov" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/video/mp.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/video/mp1.mp4" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+            <state relative-caret-position="594">
+              <caret line="90" column="59" lean-forward="false" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#video#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -90,7 +48,7 @@
       <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1338">
+            <state relative-caret-position="744">
               <caret line="479" column="22" lean-forward="false" selection-start-line="479" selection-start-column="22" selection-end-line="479" selection-end-column="22" />
               <folding />
             </state>
@@ -101,6 +59,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>mp2</find>
       <find>body</find>
     </findStrings>
   </component>
@@ -226,12 +185,12 @@
       <workItem from="1526547374397" duration="6116000" />
       <workItem from="1526555636268" duration="8154000" />
       <workItem from="1526606074442" duration="8080000" />
-      <workItem from="1526614516238" duration="22481000" />
+      <workItem from="1526614516238" duration="22972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48615000" />
+    <option name="totallyTimeSpent" value="49106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -468,12 +427,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1338">
-          <caret line="479" column="22" lean-forward="false" selection-start-line="479" selection-start-column="22" selection-end-line="479" selection-end-column="22" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/social1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/left.png">
@@ -481,15 +437,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/social1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/css/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="479" column="22" lean-forward="false" selection-start-line="479" selection-start-column="22" selection-end-line="479" selection-end-column="22" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+        <state relative-caret-position="594">
+          <caret line="90" column="59" lean-forward="false" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#video#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />

@@ -89,7 +89,6 @@
 						   x5-video-player-type="h5"
 						   x5-video-player-fullscreen="true"
 						   x5-video-orientation="landscape"
-						   poster="img/m.jpg"
 						   src="video/mp1.mp4">
 					</video>
 				</div>
@@ -356,11 +355,13 @@
                     audio.addEventListener("play", function(){
                         if($('#myvideo2').attr('src')!='video/mp1.mp4')
 						{
+						    // $('#myvideo2').removeAttr('poster');
                             $('#myvideo2').attr('src','video/mp1.mp4');
                             $('#myvideo2')[0].play();
 						}
                     });
                     audio.addEventListener("pause", function(){
+                        // $('#myvideo2').attr('poster','img/m.jpg');
                         $('#myvideo2').attr('src','video/mp.mp4');
                     });
                 });

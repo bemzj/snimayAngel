@@ -318,7 +318,8 @@
 			</div>
 		</div>
 		<script>
-			$('.img').on('click',function () {
+			$('.img').on('click',function (event) {
+			    event.preventDefault();
 				return false;
             });
 		</script>
